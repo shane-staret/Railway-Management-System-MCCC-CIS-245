@@ -1,6 +1,6 @@
 # Railway Management System
 ###### Official CIS245 (Database Management Sys. /SQL) Final Project by [Shane Staret](https://github.com/shane-staret).
-###### This is a link to [my YouTube channel](https://www.youtube.com/@shane-staret), featuring videos of this project on it. Here is a [video]() that does well at explaining and showcasing the basics of the application and some of its flaws.
+###### This is a link to [my YouTube channel](https://www.youtube.com/@shane-staret), featuring videos of this project on it. Here is a [video](https://www.youtube.com/watch?v=XE4Yj1Dzg2U) that does well at explaining and showcasing the basics of the application and some of its flaws.
 
 **IMPORTANT NOTE: The .jar executable file will *NOT* work unless you have Java 1.9 on your device**
 ________________________________________________________________________________________________________________________________
